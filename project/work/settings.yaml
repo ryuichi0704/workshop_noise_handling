@@ -1,0 +1,6 @@
+train:
+  n_classes: 340
+
+slack:
+  token: ""
+  channels: ""

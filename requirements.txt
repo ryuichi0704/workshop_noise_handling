@@ -1,0 +1,12 @@
+numpy
+pandas
+albumentations
+torch
+torchvision
+matplotlib
+requests
+tqdm
+gspread
+oauth2client
+sklearn
+pyyaml

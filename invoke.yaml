@@ -1,0 +1,9 @@
+remote:
+    gcp_project: "" #set your gcp project name
+    instance_type: "standard_p100"
+    gcr: "gcr.io/train_container/latest"
+    tag: "ai_platform:experiment"
+    credential_path: "" # set your gcp credential json path
+
+local:
+    tag: "local:experiment"
