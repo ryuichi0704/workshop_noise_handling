@@ -1,5 +1,5 @@
 ## Slide
-https://www.slideshare.net/RyuichiKanoh/practical-tips-for-handling-noisy-data-and-annotaiton-204194127
+https://www.slideshare.net/RyuichiKanoh/practical-tips-for-handling-noisy-data-and-annotaiton-204195412
 
 ## Experiment Overview
 
